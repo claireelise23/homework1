@@ -1,0 +1,32 @@
+h1{
+  font-size: 48px;
+  color: white;
+}
+h2{
+  font-style: italic;
+}
+h3 {
+  font-style: italic;
+  color: white;
+}
+body{
+  background-color: gray;
+  border-color: white;
+  border-style: dotted;
+  color: black;
+  font-family: helvetica;
+  font-size: 24px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+li{
+  font-style: italic;
+}
+
+/*#####
+
+Select at least 5 elements on the page and apply at least 5 different css properties (font-size, color, font-family, background, text-decoration) to these elements
+Use at least 6 different HTML tags (h1, h2, h3, h4, h5, h6, p, ul, ol, a, img) on your pages
+Follow naming conventions, maintain consistency across your .html and .css files
+Indent nested elements to increase your code's readability
+Bonus: Experiment by adding additional HTML tags and CSS properties we did not cover in class - explore!*/
